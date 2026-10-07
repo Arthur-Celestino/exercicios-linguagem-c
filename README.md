@@ -74,4 +74,4 @@ Praticar os principais conceitos iniciais da programação em C, como:
 
 ## 👨‍💻 Autor
 
-Pyetro Celestino Cardoso
+Arthur Celestino Cardoso
